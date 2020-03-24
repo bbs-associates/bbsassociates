@@ -1,0 +1,17 @@
+/* .body{
+    text-align: center;
+} */
+
+.card-header{
+    font-weight: bolder;
+    margin-bottom: 30px;
+}
+
+ul{
+    list-style: none;
+    padding-inline-start: 0px;
+}
+
+li{
+    margin-bottom: 10px;
+}

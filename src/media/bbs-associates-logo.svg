@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with PhotoLine 22.00 (www.pl32.com) -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="500" height="300" viewBox="0 0 500 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <image xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAfQAAAEsCAIAAAC62dafAAAACXBIWXMAAAsTAAALEwEAmpwYAAAD
+SUlEQVR42u3UQQ0AAAjEMMC/58MGIa2EPdZJCoBfRgIAcwfA3AEwdwDMHQBzBzB3AMwdAHMHwNwB
+MHcAcwfA3AEwdwDMHQBzB8DcAcwdAHMHwNwBMHcAzB3A3AEwdwDMHQBzB8DcATB3AHMHwNwBMHcA
+zB0AcwcwdwDMHQBzB8DcATB3AMwdwNwBMHcAzB0AcwfA3AHMHQBzB8DcATB3AMwdAHMHMHcAzB0A
+cwfA3AEwdwBzB8DcATB3AMwdAHMHwNwBzB0AcwfA3AEwdwDMHcDcATB3AMwdAHMHwNwBMHcAcwfA
+3AEwdwDMHQBzBzB3AMwdAHMHwNwBMHcAzB3A3AEwdwDMHQBzB8DcAcwdAHMHwNwBMHcAzB0Acwcw
+dwDMHQBzB8DcATB3AHMHwNwBMHcAzB0AcwfA3AHMHQBzB8DcATB3AMwdwNwBMHcAzB0AcwfA3AEw
+dwBzB8DcATB3AMwdAHMHMHcAzB0AcwfA3AEwdwDMHcDcATB3AMwdAHMHwNwBzB0AcwfA3AEwdwDM
+HQBzBzB3AMwdAHMHwNwBMHcAcwfA3AEwdwDMHQBzB8DcAcwdAHMHwNwBMHcAzB3A3AEwdwDMHQBz
+B8DcATB3AHMHwNwBMHcAzB0AcwcwdwDMHQBzB8DcATB3AMwdwNwBMHcAzB0AcwfA3AHMHQBzB8Dc
+ATB3AMwdAHMHMHcAzB0AcwfA3AEwdwBzB8DcATB3AMwdAHMHwNwBzB0AcwfA3AEwdwDMHcDcATB3
+AMwdAHMHwNwBMHcAcwfA3AEwdwDMHQBzBzB3AMwdAHMHwNwBMHcAzB3A3AEwdwDMHQBzB8DcAcwd
+AHMHwNwBMHcAzB0AcwcwdwDMHQBzB8DcATB3AHMHwNwBMHcAzB0AcwfA3AHMHQBzB8DcATB3AMwd
+wNwBMHcAzB0AcwfA3AEwdwBzB8DcATB3AMwdAHMHMHcAzB0AcwfA3AEwdwBzlwDA3AEwdwDMHQBz
+B8DcAcwdAHMHwNwBMHcAzB3A3AEwdwDMHQBzB8DcATB3AHMHwNwBMHcAzB0AcwcwdwDMHQBzB8Dc
+ATB3AMwdwNwBMHcAzB0AcwfA3AHMHQBzB8DcATB3AMwdAHMHMHcAzB2AKxYsoAVVnK8YqwAAAABJ
+RU5ErkJggg==" width="500" height="300" id="img0"/>
+  <g id="Circle/Ellipse" transform="matrix(2.919029 0 0 2.919029 -194.688751 -276.732391)">
+    <path fill="#cc0000" fill-rule="evenodd" d="M150.57 146.19 C150.57 128.72 164.76 114.53 182.22 114.53 C199.69 114.53 213.88 128.72 213.88 146.19 C213.88 163.66 199.69 177.84 182.22 177.84 C164.76 177.84 150.57 163.66 150.57 146.19 Z"/>
+  </g>
+  <g id="Circle/Ellipse" transform="matrix(2.919029 0 0 2.919029 -266.521301 -276.732421)">
+    <path fill="#264059" fill-rule="evenodd" d="M150.57 146.19 C150.57 128.72 164.76 114.53 182.22 114.53 C199.69 114.53 213.88 128.72 213.88 146.19 C213.88 163.66 199.69 177.84 182.22 177.84 C164.76 177.84 150.57 163.66 150.57 146.19 Z"/>
+  </g>
+  <g transform="matrix(1 0 0 1 2.126739 116.88298)">
+    <text kerning="0" font-family="Roboto Slab" font-size="48" fill="#303030">
+      <tspan x="75.12" y="50.3">BBS</tspan>
+      <tspan fill="#ffffff" x="165.35" y="50.3"> </tspan>
+      <tspan fill="#fafafa" x="177.28" y="50.3">Asso</tspan>
+      <tspan fill="#fafafa" x="288.28" y="50.3">c</tspan>
+      <tspan fill="#fafafa" x="313.29" y="50.3">iat</tspan>
+      <tspan fill="#fafafa" x="371.74" y="50.3">e</tspan>
+      <tspan fill="#fafafa" x="396.68" y="50.3">s</tspan>
+    </text>
+  </g>
+</svg>
