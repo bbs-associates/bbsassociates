@@ -10,7 +10,7 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "homepage": "http://bbs-associates.github.io/bbsassociates.github.io"
+    "homepage": "."
   },
   "scripts": {
     "start": "react-scripts start",
