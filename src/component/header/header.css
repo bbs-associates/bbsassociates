@@ -1,16 +1,6 @@
-.logo{
-    height: 300px;
+#logo{
+    width: 70%;
 }
-
-#circle-fade{
-    -webkit-transition: fill-opacity 0.4s;
-    transition: fill-opacity 0.4s;
-}
-
-/* circle2{
-    -webkit-transition: fill-opacity 0.4s;
-    transition: fill-opacity 0.4s;
-} */
 
 .header{
     margin-bottom: 100px;
