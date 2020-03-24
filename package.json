@@ -1,6 +1,6 @@
 {
   "name": "bbs-associates",
-  "homepage": "http://bbs-associates.github.io/bbsassociates/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
