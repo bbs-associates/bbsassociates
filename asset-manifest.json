@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.161e3126.chunk.css",
+    "main.js": "/static/js/main.d17e162c.chunk.js",
+    "main.js.map": "/static/js/main.d17e162c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f48eaa24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f48eaa24.js.map",
+    "static/js/2.87c16370.chunk.js": "/static/js/2.87c16370.chunk.js",
+    "static/js/2.87c16370.chunk.js.map": "/static/js/2.87c16370.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.9e4c3f8e2b8d0a63a89eca8d4af10f43.js": "/precache-manifest.9e4c3f8e2b8d0a63a89eca8d4af10f43.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.161e3126.chunk.css.map": "/static/css/main.161e3126.chunk.css.map",
+    "static/js/2.87c16370.chunk.js.LICENSE.txt": "/static/js/2.87c16370.chunk.js.LICENSE.txt",
+    "static/media/bbs-associates-logo-no-back.svg": "/static/media/bbs-associates-logo-no-back.7c40ad84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f48eaa24.js",
+    "static/js/2.87c16370.chunk.js",
+    "static/css/main.161e3126.chunk.css",
+    "static/js/main.d17e162c.chunk.js"
+  ]
+}
